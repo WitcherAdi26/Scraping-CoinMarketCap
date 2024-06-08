@@ -1,0 +1,8 @@
+django
+djangorestframeworks
+selenium
+decouple
+webdriver_manager
+redis
+pandas
+openpyxl
